@@ -9,8 +9,7 @@ slug: master-bathroom-barn-door
 
 # Master Bathroom Barn Door
 
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+Simple construction pine barn door for our master bathroom with a modern look.
 
 ## Table of Contents
 
